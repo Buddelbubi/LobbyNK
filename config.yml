@@ -1,0 +1,46 @@
+Configversion: 0
+ # _          _     _           _   _ _  __
+ #| |    ___ | |__ | |__  _   _| \ | | |/ /
+ #| |   / _ \| '_ \| '_ \| | | |  \| | ' / 
+ #| |__| (_) | |_) | |_) | |_| | |\  | . \ 
+ #|_____\___/|_.__/|_.__/ \__, |_| \_|_|\_\
+ #     By Buddelbubi      |___/            
+ #
+ # This is the main configuration file. Change essential things here.
+ 
+ 
+Bossbar: true 
+NoHunger: true
+NoDamage: true
+spawnprotection: true
+CompassImages: true
+Gamesamount: 8 #how many slots should apper in your compass?
+Gamemode: 2
+MaxPetSize: 20  #The limit of petsize to prevent lags
+Inventorychange: false  #let your players (not) drop items or moving items in their inventory
+Joinquitmessage: true   
+Jointitle: true
+multiworld: false 
+multilobby: true
+multilobby-useallworlds: false
+maxplayersperlobby: 24
+multiworldSaveInventory: true  #saves and restores survival inventories if multiworld is enabled
+Teleporttitle: true
+Teleportchat: true
+disableWeather: true
+disableInteract: true #disable usage of doors/buttons/trapdors etc.
+timelock: true 
+time: 7000
+maxHealth: 1
+jumppadblock: 133
+Chatsystem: true
+Level: 2020
+scoreboard: true
+alwaysspawn: true
+fireworkonspawn: true
+bossbarpoints: 100
+soundeffects: true
+NoExplosions: true 
+DeviceDisplay: true
+language: english #use english or german. Its not recomended to make a own file. Edit an existing one.
+multilanguage: true

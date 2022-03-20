@@ -1,0 +1,14 @@
+name: LobbyNK
+version: 3.7.5
+author: Buddelbubi
+api: 1.0.0
+description: The most powerful and customizable Lobbysystem for NukkitX!
+main: de.buddelbubi.Lobbynk
+commands:
+   lobby:
+      description: Main Lobby command!
+      aliases: [lobbynk, hub, l]
+   build:
+      description: Enables you to build!
+   spawn:
+      description: Teleports you to spawn

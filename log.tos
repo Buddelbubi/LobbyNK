@@ -1,0 +1,83 @@
+Terms of use:
+	You're not allowed to use modified versions of LobbyNK
+
+Changes v3.3.0:
+	added VIP Hotbar,
+	added SilentLobby item,
+	added ForceFieldItem,
+	added "developer" in chat.yml by default
+	added multiworld and multilobby at the same time support
+	fixed wiped inventorys of offline players caused by restart or reload
+	fixed the chatsystem
+Changes v3.3.1:
+	fixed double bossbar
+Changes v3.3.2:
+	fixed print of you lobbyworld
+Changes v3.5.0:
+	Added Pets
+Changes v3.5.7:
+	Added PetOptions
+Changes v3.5.7-1:
+	Added forcefield bypass permission
+Changes v3.5.9
+	Added Playercounter at Lobbyselector
+	Patched StayTime after syncing
+	Patched noweather for every world. Now it is only in lobbyworlds
+Changes v3.5.10:
+	Patches broken alwaysspawn
+	Sort Lobbies in your Lobbyselector.
+Changes v3.6.0:
+	Added LobbyServers for Lobbyselector
+Changes v3.6.1
+	Added Configuration: spawnprotection
+	Added Serverprefix in your lobbyselector
+	fixed wiped inventory with keepInventory 
+	fixed keepXp with keepInventory	
+	lobby reload command now works in console
+Changes v3.6.2:
+	Added Playercounters
+Changes v3.6.3:
+	Patched error on banning player
+Changes v3.6.4:
+	Added WaterDog Support
+Changes v3.6.5:
+	Added new configuration (timelock)
+	Lock the time on Level load. Hopefully thil will fix it for all servers where this option didn't work in previous versions.
+Changes v3.6.6:
+	Patched Vehicle teleport glitch
+	Added Zombie Horse pet
+	Added Skeleton Horse pet
+	Added Cave Spider Pet
+	Added Colorcode Support for &
+Changes v3.6.7
+    Added fix for deleted lobby worlds
+Changes v3.6.8
+	Patched NonMovement for flying pets
+	Patched non Removed Pets on reload/stop if multiworld was disabled
+	Added feature to edit lobby selector pictures
+	Fixed german language file
+	patched unblocked interact event bug
+	Changed default config generation for config.yml
+	Improved "alwaysspawn"
+	Added support for FriendSystem
+Changes v3.6.9 
+	Get the friend command from the FriendSystem Config 
+	Added aliases to /lobby.
+	Added trusted skins
+	Added enchantments
+	Added Note Walkingparticles
+Changes v3.7.0:
+	Added Multilanguage Support!
+Changes v3.7.1:
+	Added Corrupted Files Nitifier
+	Scoreboard Bug should now be fixed.
+Changes v3.7.2:
+	Added Device Displays
+	Patched Scoreboard Crash
+Changes v2.7.3:
+	Fixed FriendSystem Support
+Changes v2.7.4:
+	Added Piglin Pet
+	Added Hoglin Pet
+	Added Zoglin Pet
+	Added Strider Pet

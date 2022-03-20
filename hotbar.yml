@@ -1,0 +1,55 @@
+configversion: 2 ##Dont change this
+
+#Change the items for your normal members
+
+Slot1.Item: '404:0'
+Slot1.Itemname: '&cSettings'
+Slot2.Item: '369:0'
+Slot2.Itemname: '&aHide players'
+Slot3.Item: '160:8'
+Slot3.Itemname: ''
+Slot4.Item: '160:8'
+Slot4.Itemname: ''
+Slot5.Item: '345:0'
+Slot5.Itemname: '&cNavigator'
+Slot6.Item: '160:8'
+Slot6.Itemname: ''
+Slot7.Item: '160:8'
+Slot7.Itemname: ''
+Slot8.Item: '54:0'
+Slot8.Itemname: '&eGadgets'
+Slot9.Item: '399:0'
+Slot9.Itemname: '&bLobbySelector'
+
+#Change the items for your players with the permission lobbynk.vip
+
+Slot1.VIP.Item: '404:0'
+Slot1.VIP.Itemname: '&cSettings'
+Slot2.VIP.Item: '369:0'
+Slot2.VIP.Itemname: '&aHide players'
+Slot3.VIP.Item: '46:0'
+Slot3.VIP.Itemname: '&cSilentLobby'
+Slot4.VIP.Item: '160:8'
+Slot4.VIP.Itemname: ''
+Slot5.VIP.Item: '345:0'
+Slot5.VIP.Itemname: '&cNavigator'
+Slot6.VIP.Item: '160:8'
+Slot6.VIP.Itemname: ''
+Slot7.VIP.Item: '381:0'
+Slot7.VIP.Itemname: '&2Forcefield'
+Slot8.VIP.Item: '54:0'
+Slot8.VIP.Itemname: '&eGadgets'
+Slot9.VIP.Item: '399:0'
+Slot9.VIP.Itemname: '&bLobbySelector'
+
+#Change the special items which will do the actions. But you have to change them in the configurations above too.
+
+CompassItem: '345:0'
+HidePlayerItem: '369:0'
+GadgetsItem: '54:0'
+LobbyItem: '399:0'
+SettingsItem: '404:0'
+ForcefieldItem: '381:0'
+SilentlobbyItem: '46:0'
+FriendItem: '397:3' #This requies FriendSystem by Mundschutziii (This item is not in the hotbar by default. You have to add it)
+
