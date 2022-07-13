@@ -1,17 +1,4 @@
-/*
- * Decompiled with CFR 0.150.
- * 
- * Could not load the following classes:
- *  cn.nukkit.Server
- *  cn.nukkit.event.EventHandler
- *  cn.nukkit.event.Listener
- *  cn.nukkit.event.player.PlayerRespawnEvent
- *  cn.nukkit.level.Level
- *  cn.nukkit.level.Location
- *  cn.nukkit.level.Position
- *  cn.nukkit.utils.Config
- *  cn.nukkit.utils.DummyBossBar
- */
+
 package de.buddelbubi.events;
 
 import cn.nukkit.Server;
